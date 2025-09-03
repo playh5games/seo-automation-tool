@@ -29,7 +29,7 @@ This tool is designed for **SEO specialists, developers, and freelancers** who w
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourname/seo-automation-tool.git
+git clone https://github.com/playh5games/seo-automation-tool.git
 cd seo-automation-tool
 ```
 
